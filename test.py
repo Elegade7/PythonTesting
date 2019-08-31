@@ -1,3 +1,5 @@
+#8-31-19
+#first time using vscode and setting it up
 import sys
 
 print(sys.version)
